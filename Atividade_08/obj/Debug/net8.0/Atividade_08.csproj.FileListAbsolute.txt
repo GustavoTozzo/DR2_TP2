@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\bin\Debug\net8.0\Atividade_08.exe
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\bin\Debug\net8.0\Atividade_08.deps.json
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\bin\Debug\net8.0\Atividade_08.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\bin\Debug\net8.0\Atividade_08.dll
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\bin\Debug\net8.0\Atividade_08.pdb
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\Atividade_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\Atividade_08.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\Atividade_08.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\Atividade_08.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\Atividade_08.dll
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\refint\Atividade_08.dll
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\Atividade_08.pdb
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\Atividade_08.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Gustavo\C#\TP2\DR2_TP2\Atividade_08\obj\Debug\net8.0\ref\Atividade_08.dll
